@@ -1,7 +1,8 @@
 # Heart_Disease-Analysis_dashboard_in-POWER_BI
 The Purpose of this tutorial is to demonstrate how to create Step by Step Dynamic Heart Disease Analysis Dashboard Using PowerBI.
 
-🚀 Here’s What you’ll Learn:
+<img width="1472" height="810" alt="hda" src="https://github.com/user-attachments/assets/cffc442b-316f-48ff-9a13-279a138a0eb5" />
+
 
 📌 KPI’s Overview : Survival Rate, Avg Age of Survival, Total Survival and Total Death Provide a comprehensive overview of patients.
 
